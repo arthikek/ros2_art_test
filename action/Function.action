@@ -1,0 +1,9 @@
+
+int64 a  #amount of boxes that should be picke dup by the robot
+
+---
+# result
+int64 sum #amount of boxes that were picked up by the robot
+---
+
+float32 percent_complete # percentage of boxes that were picked up by the robot
